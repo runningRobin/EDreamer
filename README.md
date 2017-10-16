@@ -1,2 +1,2 @@
 # EDreamer
-筑梦人PHP框架
+梦想家PHP框架
